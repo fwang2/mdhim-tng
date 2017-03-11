@@ -24,3 +24,10 @@
 # Makefile and Makefile config
 Makefile
 Makefile.cfg
+
+# Cmake
+GPATH
+GRTAGS
+GTAGS
+HTML/
+build/
